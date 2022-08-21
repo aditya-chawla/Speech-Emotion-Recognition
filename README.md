@@ -18,4 +18,4 @@
 * Initialize the MLPClassifier and train the model.
 * Calculate the accuracy of our model.
 ##  Conclusion:
-Successfully recognized emotions from speech using an MLPClassifier for this and made use of the soundfile library to read the sound file, and the librosa library to extract features from it. The model delivered an accuracy of 72.9%
+Successfully recognized emotions from speech using an MLPClassifier for this and made use of the soundfile library to read the sound file, and the librosa library to extract features from it. The model delivered an accuracy of 72.9%.
